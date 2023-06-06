@@ -1,6 +1,6 @@
 # Histopathological_Cancer_Detection
  
- - Kranthi Kumar
+ - Anil Reddy
  
 <p style='text-align: justify;'><b>Cancer</b> is the name given to a Collection of Related Diseases. In all types of Cancer's, some of the Body’s cells <b>Begin to Divide Without Stopping and Spread into Surrounding Tissues</b>.</p>
 
